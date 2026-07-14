@@ -1,6 +1,6 @@
 <!-- GitHub profile README for github.com/azyy00 Lives in a repo named exactly azyy00/azyy00 to show on your profile. Requires banner.png (in this folder) committed to the repo root. --> <img src="./banner.png" alt="Anthony Azuela — Full-Stack Developer & Designer" width="100%" /> <p align="center"> <img src="https://komarev.com/ghpvc/?username=azyy00&label=Profile%20views&color=E5484D&style=flat" alt="profile views" /> &nbsp; <a href="https://www.linkedin.com/in/anthony-azuela-443652358/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <a href="mailto:anthony.azuela.buenaflor@gmail.com"> <img src="https://img.shields.io/badge/Email-E5484D?style=flat&logo=gmail&logoColor=white" alt="Email" /> </a> <a href="https://azuela-web.vercel.app"> <img src="https://img.shields.io/badge/Portfolio-0D0D0F?style=flat&logo=vercel&logoColor=white" alt="Portfolio" /> </a> </p>
 About
-Full-stack developer and graphic designer from Goa, Camarines Sur. I build software for the people around me — most of it runs in production at a community college.
+Full-stack developer and graphic designer from Goa, Camarines Sur. I build software for the people around me, most of it runs in production at a community college.
 
 🎓 BS Computer Science, Partido State University (2025)
 🛠️ React / TypeScript on the front, Node & Postgres behind it
