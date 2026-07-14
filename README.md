@@ -2,9 +2,9 @@
 About
 Full-stack developer and graphic designer from Goa, Camarines Sur. I build software for the people around me, most of it runs in production at a community college.
 
-🎓 BS Computer Science, Partido State University (2025)
-🛠️ React / TypeScript on the front, Node & Postgres behind it
-🏆 DataCamp Scholar — 9 statements across Python, SQL, data & machine learning
+🎓 BS Computer Science, Partido State University (2025) <br />
+🛠️ React / TypeScript on the front, Node & Postgres behind it<br />
+🏆 DataCamp Scholar — 9 statements across Python, SQL, data & machine learning<br />
 🌱 Currently shipping real systems for Goa Community College and local businesses
 <br />
 Tech stack
